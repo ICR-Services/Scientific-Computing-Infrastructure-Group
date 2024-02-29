@@ -4,10 +4,10 @@ We acknowledge Scientific Computing at The Institute of Cancer Research for prov
 ---
 
 ## Service Description
-# Scientific Computing Infrastructure
+# Scientific Computing Infrastructure Group
 
 ### Scientific Computing, Digital Services, Institute of Cancer Research  
-scientific computing insfrastructure summary
+Scientific Computing Infrastructure Group summary
 
 ### Staff
 - SCI Manager: <insert name>
